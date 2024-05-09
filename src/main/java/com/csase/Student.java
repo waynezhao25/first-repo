@@ -1,4 +1,4 @@
-package com.csase;
+package com.csase; //fixed
 
 import java.util.Scanner;
 
